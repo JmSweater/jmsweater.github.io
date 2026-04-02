@@ -16,7 +16,6 @@ In the world of knitting, **14G (14-Gauge)** represents the pinnacle of precisio
 ## 🖼️ Gallery & Craftsmanship
 Check out our latest 14G Intarsia samples:
 
-![14G Detail]
 <img src="https://jmsweater.com/UploadFiles/2026329145551596.webp" width="762" alt="14G Detail">
 
 *Ultra-fine 14G Intarsia pattern detail - Zero friction, seamless color mixing.*
