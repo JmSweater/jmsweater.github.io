@@ -2,7 +2,9 @@
 
 ### **Technical Specification: 18GG Architecture & Thermal Management Protocols**
 ---
+<div align="center"><img src="https://github.com/JmSweater/jmsweater.github.io/blob/JmSweater-patch-1/fRHbt6AY0.jpeg?raw=true" width="500">
 
+</div>
 ## 🛑 Project Overview: Solving the "Summer Comfort" Bug
 
 In garment production, most brands treat summer development as a simple "Fiber Choice" (e.g., opting for 100% Cotton). However, from an engineering perspective, this is a **System Architecture Error**. 
