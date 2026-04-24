@@ -3,6 +3,8 @@
 > **Date:** April 23, 2026  
 > **Topic:** Technical comparison of fine-gauge knitwear manufacturing.
 
+<div align="center"><img src="https://github.com/JmSweater/jmsweater.github.io/blob/JmSweater-patch-1/fRpjKSOET.jpeg?raw=true" width=500></div>
+
 In knitwear manufacturing, the "Gauge" (G) defines the DNA of the fabric. It refers to the number of needles per inch on the machine's bed. While both 14G and 18G fall under the "fine gauge" category, the 4-needle difference creates a significant divergence in texture, durability, and production logic.
 
 As a technology-driven textile facility with 20 years of expertise, we prioritize precision and data-backed manufacturing decisions.
@@ -41,9 +43,8 @@ A common misconception is that higher gauge equals less warmth. In our testing, 
 We specialize in bridging the gap between traditional craftsmanship and technical precision. If you are developing a premium knitwear line, let's discuss the technical specs.
 
 ### Contact Information
-* **Email:** [Your Email Address]
-* **WhatsApp:** [Your Phone Number]
-* **Website:** [Your Website URL]
+* **Email:** [admin@jmsweater.com]
+* **Website:** [https://jmsweater.com]
 * **Location:** Guangzhou, China
 
 ---
